@@ -1,7 +1,7 @@
 # description
-```
-Quick start of the project on View (Vueex, Router View, axios).
-```
+
+Quick start of the project on vue (Vueex, Vue Router, axios).
+
 # app
 
 ## Project setup
