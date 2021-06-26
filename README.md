@@ -1,6 +1,6 @@
 # description
 
-Quick start of the project on vue (Vueex, Vue Router, axios).
+Quick start of the project on vue (Vuex, Vue Router, axios).
 
 # app
 
